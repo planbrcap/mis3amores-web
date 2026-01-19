@@ -1,0 +1,70 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mis 3 Amores RVJ 💖</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg,#ffd1e8,#fff);
+      color: #5a0036;
+      text-align: center;
+    }
+    header {
+      background: #ff69b4;
+      padding: 30px;
+      color: white;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .card {
+      background: white;
+      border-radius: 15px;
+      padding: 25px;
+      margin: 20px auto;
+      max-width: 400px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 25px;
+      background: #ff1493;
+      color: white;
+      text-decoration: none;
+      border-radius: 30px;
+      font-size: 18px;
+    }
+    footer {
+      background: #ffb6c1;
+      padding: 15px;
+      color: #5a0036;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>💄 Mis 3 Amores RVJ 💖</h1>
+  <p>Maquillaje · Ropa · Belleza</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>✨ Belleza hecha con amor ✨</h2>
+    <p>Productos pensados para mujeres increíbles.</p>
+    <a class="btn" href="https://wa.me/XXXXXXXXXX">💬 Comprar por WhatsApp</a>
+  </div>
+</section>
+
+<footer>
+  © 2026 Mis 3 Amores RVJ
+</footer>
+
+</body>
+</html>
+Página inicial Mis 3 Amores RVJ
